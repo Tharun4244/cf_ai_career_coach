@@ -1,0 +1,5 @@
+name = "cf_ai_career_coach"
+compatibility_date = "2025-02-01"
+
+[ai]
+binding = "AI"
